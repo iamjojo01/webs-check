@@ -1,6 +1,4 @@
-{
-  "name": "mailer",
+{"name": "mailer",
   "version": "1.0.0",
-  "description": "Sender.",
-  "main": "index.html,
-}
+  "description": "Sender",
+  "main": "index.html}
