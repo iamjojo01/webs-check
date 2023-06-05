@@ -3,12 +3,6 @@
   "version": "1.0.0",
   "description": "Sender.",
   "main": "index.html,
-  "scripts": {
-    "test": "node index.js"
-  },
-  "keywords": [
-    "sender"
-  ],
   "author": "silentc0ders",
   "license": "ISC",
   "dependencies": {
